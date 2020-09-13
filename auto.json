@@ -1,0 +1,16 @@
+[{
+    "chats":"on",
+    "wd":"off",
+    "leave":"on",
+    "message":"on",
+    "join":"on",
+    "visit":"on",
+    "time_inverval":"4"
+}
+,
+
+{"group_entity":["@Clickers01"],
+    "chat":["Enter you message here","if you want to add more message","just add ,","add 1","add 2","add 3","and more",
+    	"just like that"]
+}
+]
